@@ -34,12 +34,7 @@ layout: default
   <li class="listing-seperator">回顾</i>
   {% capture year %}{{ site.time | date:"%Y"}}{% endcapture %}
     
-  {% for post in site.posts limit: 3%}
-<!--   {% for post in site.posts offset:1 limit: 3%}
-    {% capture y %}{{ post.date | date:"%Y"}}{% endcapture %}
-    {% if year != y %}
-    {% break %}
-    {% endif %} -->
+  {% for post in site.posts limit: 3 %}
     <li class="listing-item">
       <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
       <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
