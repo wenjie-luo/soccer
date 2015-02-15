@@ -3,7 +3,7 @@ title: 赛季收官战
 layout: post
 guid: urn:uuid:c9b0a144-eddd-4851-951e-d5a27a0b18bb
 tags:
-  - some
+  - tags
 ---
 
 ![合照](/media/img/IMG_0185.jpg)  

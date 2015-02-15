@@ -3,7 +3,7 @@ title: 神马叫牛逼
 layout: post
 guid: urn:uuid:57ee87aa-67e6-4f6a-b24f-e89ff8b3cc21
 tags:
-  - tags
+  - some
 ---
 
 ![合照](/media/img/IMG_0324.jpg)  
