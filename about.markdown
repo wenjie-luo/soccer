@@ -5,18 +5,14 @@ layout: page
 
 a
 
-> Minimalist | Appleist | Unixer | Coder
+> Chinese | Soccer | Team
 
-who involved in 
+in
 
-> [github](https://github.com/waynezhang)
+> University of Toronto
 
-mail 
+Join us
 
-> echo srvpqxfbyqfvpdtkbjwt | tr yxwvtsrqpkjfdb zuonmlihgeca@.
+> @???
 
-or follow 
-
-> [@o_lll](https://twitter.com/#!/o_lll)
-
-to reach me
+Come and enjoy! ;)

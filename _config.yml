@@ -1,10 +1,9 @@
-markdown: rdiscount
 highlighter: pygments
 permalink: /:year/:month/:day/:title.html
-name: "Soccer"
+name: "UTCSSA Soccer"
 markdown: rdiscount
 
-author: "Wenjie"
+author: "Wenjie Luo"
 atom-baseurl: "http://soccer.wenjie-luo.com"
 # disqus: "gopherwood"
 
@@ -18,10 +17,4 @@ navigations:
   - title: About
     class: fa fa-user
     href: /about.html
-  - title: Gallery
-    class: fa fa-film
-    href: http://foto.lhzhang.com
-  - title: Subscribe
-    class: fa fa-rss
-    href: /atom.xml
 
