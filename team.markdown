@@ -19,7 +19,7 @@ layout: page
 	</td>	
     <td>
 	  <img src="/media/img/ppl/default.png" alt="Drawing" style="width: 200px;"/>
-	  <p class="ppl_caption">Carine Zhang</div>
+	  <p class="ppl_caption">Carina Zhang</div>
 	</td>
   </tr>
 </table> 
