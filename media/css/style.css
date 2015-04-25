@@ -205,3 +205,52 @@ footer {
     color: #dd1144; }
   .like-wrapper .like-button.liked:hover {
     color: #999; }
+
+div.img_desp {
+  float: left;
+  /* important */
+  position: relative;
+  /* important(so we can absolutely position the description div */ }
+
+div.description {
+  position: absolute;
+  /* absolute position (so we can position it where we want)*/
+  bottom: 0px;
+  /* position will be on bottom */
+  left: 0px;
+  width: 100%;
+  /* styling bellow */
+  background-color: black;
+  font-family: 'tahoma';
+  font-size: 15px;
+  color: white;
+  opacity: 0.6;
+  /* transparency */
+  filter: alpha(opacity=60);
+  /* IE transparency */ }
+
+div.ppl {
+  position: absolute;
+  /* absolute position (so we can position it where we want)*/
+  bottom: 0px;
+  /* position will be on bottom */
+  left: 0px;
+  width: 100%;
+  /* styling bellow */
+  background-color: black;
+  font-family: 'tahoma';
+  font-size: 12px;
+  color: white;
+  opacity: 0.3;
+  /* transparency */
+  filter: alpha(opacity=60);
+  /* IE transparency */ }
+
+p.description_content {
+  padding: 10px;
+  margin: 0px; }
+
+p.ppl_caption {
+  padding: 0px;
+  margin: 0px;
+  text-align: center; }

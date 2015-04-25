@@ -14,7 +14,10 @@ navigations:
   - title: Tags
     class: fa fa-tags
     href: /tags.html
+  - title: Team
+    class: fa fa-users
+    href: /team.html
   - title: About
-    class: fa fa-user
+    class: fa fa-bell-o
     href: /about.html
 

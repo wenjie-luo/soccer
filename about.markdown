@@ -11,8 +11,7 @@ in
 
 > University of Toronto
 
-Join us
 
-> @???
+**Join us @???**
 
-Come and enjoy! ;)
+> Come and enjoy! ;)
