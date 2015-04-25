@@ -75,3 +75,6 @@ layout: page
 	</td>		
   </tr>
 </table>
+
+* **Fans**
+LOL
