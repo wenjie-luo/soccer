@@ -18,7 +18,7 @@ layout: page
 	  <p class="ppl_caption">Alice Mu</div>
 	</td>	
     <td>
-	  <img src="/media/img/ppl/carina.png" alt="Drawing" style="width: 200px;"/>
+	  <img src="/media/img/ppl/carina.jpg" alt="Drawing" style="width: 200px;"/>
 	  <p class="ppl_caption">Carina Zhang</div>
 	</td>
   </tr>
