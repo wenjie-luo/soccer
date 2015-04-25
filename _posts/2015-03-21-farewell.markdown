@@ -1,0 +1,34 @@
+---
+title: farewell
+layout: post
+guid: urn:uuid:d8398e15-985f-4821-8170-48c79cc15cd8
+tags:
+  - 需要一个写手orz
+---
+
+Last game T_T as some of us are graduating.
+
+<table style="width:100%">
+  <tr>
+    <td>
+	<div class='img_desp'>
+	  <img src="/media/img/IMG_0198.jpg" alt="Drawing" style="width: 400px;"/>
+	  <div class='description'>
+	    <p class='description_content'>Zhaoyu Guo</p>
+	  </div>
+	</div>
+	</td>
+    <td>
+	<div class='img_desp'>
+	  <img src="/media/img/IMG_0170.jpg" alt="Drawing" style="width: 400px;"/>
+	  <div class='description'>
+	    <p class='description_content'>Xiaochen Gu</p>
+	  </div>
+	</div>
+	</td>		
+  </tr>
+</table>
+
+Best wishes for you guys, we'll miss you.
+
+
