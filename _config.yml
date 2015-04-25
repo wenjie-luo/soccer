@@ -8,6 +8,9 @@ atom-baseurl: "http://soccer.wenjie-luo.com"
 # disqus: "gopherwood"
 
 navigations:
+  - title: Home
+    class: fa fa-home
+    href: /
   - title: Archive
     class: fa fa-list-ul
     href: /archive.html
