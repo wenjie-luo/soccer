@@ -5,7 +5,7 @@ layout: page
 
 
 
-* **Stuff:**
+* **Staff:**
 
 <table style="width:100%">
   <tr>		
@@ -66,11 +66,11 @@ layout: page
   <tr>	
     <td>
 	  <img src="/media/img/ppl/albe.jpg" alt="Drawing" style="width: 200px;"/>
-	  <p class="ppl_caption">xx, Striker</div>
+	  <p class="ppl_caption">Xiangyu Liu, Striker</div>
 	</td>			
     <td>
 	  <img src="/media/img/ppl/ray.jpg" alt="Drawing" style="width: 200px;"/>
-	  <p class="ppl_caption">xx, Striker</div>
+	  <p class="ppl_caption">Ray, Striker</div>
 	</td>
 	</td>		
   </tr>

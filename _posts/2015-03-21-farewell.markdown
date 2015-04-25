@@ -1,5 +1,5 @@
 ---
-title: farewell
+title: Farewell
 layout: post
 guid: urn:uuid:d8398e15-985f-4821-8170-48c79cc15cd8
 tags:
