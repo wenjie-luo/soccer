@@ -10,7 +10,7 @@ layout: page
 <table style="width:100%">
   <tr>		
     <td>
-	  <img src="/media/img/ppl/default.png" alt="Drawing" style="width: 200px;"/>
+	  <img src="/media/img/ppl/jmq.jpg" alt="Drawing" style="width: 200px;"/>
 	  <p class="ppl_caption">Mengqi Jia</div>
 	</td>	
     <td>
@@ -75,7 +75,7 @@ layout: page
 	</td>				
     <td>
 	  <!-- <img src="/media/img/ppl/default.png" alt="Drawing" style="width: 200px;"/> -->
-	  <p class="ppl_caption">Others, Others</div>
+	  <p class="ppl_caption">Others...</div>
 	</td>
 	</td>		
   </tr>

@@ -12,6 +12,7 @@ in
 > University of Toronto
 
 
-**Join us @???**
+**Join us <a href="mailto:robinf.chang@gmail.com?Subject=**CSSA Soccer** new poeple" target="_top">@email</a>**
 
-> Come and enjoy! ;)
+> as staff, players or fans;)
+
