@@ -74,7 +74,7 @@ layout: page
 	</td>
 	</td>				
     <td>
-	  <img src="/media/img/ppl/default.png" alt="Drawing" style="width: 200px;"/>
+	  <!-- <img src="/media/img/ppl/default.png" alt="Drawing" style="width: 200px;"/> -->
 	  <p class="ppl_caption">Others, Others</div>
 	</td>
 	</td>		
