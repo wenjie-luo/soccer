@@ -14,7 +14,7 @@ layout: page
 	  <p class="ppl_caption">Mengqi Jia</div>
 	</td>	
     <td>
-	  <img src="/media/img/ppl/default.png" alt="Drawing" style="width: 200px;"/>
+	  <img src="/media/img/ppl/alice.jpg" alt="Drawing" style="width: 200px;"/>
 	  <p class="ppl_caption">Alice Mu</div>
 	</td>	
     <td>
@@ -72,9 +72,19 @@ layout: page
 	  <img src="/media/img/ppl/ray.jpg" alt="Drawing" style="width: 200px;"/>
 	  <p class="ppl_caption">Ray, Striker</div>
 	</td>
+	</td>				
+    <td>
+	  <img src="/media/img/ppl/default.png" alt="Drawing" style="width: 200px;"/>
+	  <p class="ppl_caption">Others, Others</div>
+	</td>
 	</td>		
   </tr>
 </table>
 
-* **Fans**
+* **Former Players:**
+
+TODO
+
+* **Fans:**
+
 LOL
